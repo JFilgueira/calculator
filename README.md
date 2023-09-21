@@ -1,3 +1,3 @@
 # calculator
 
-A simple calculator built with Javascript, HTML and SASS.
+You can see a live version of the site here: https://jfilgueira.github.io/calculator/
